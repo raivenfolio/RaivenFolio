@@ -20,7 +20,7 @@
 <br clear="left" />
   
 🌱 Languages: Lua, C++, Java, Python, PHP, HTML5, CSS, Javascript, <br>
-🌱 Game Dev Engines: Usagi Engine, Love2D (isnt this more like a framework?) <br>
+🌱 Game Dev Engines: Usagi Engine, Love2D <br>
 🌱 Web & Databases: FastApi, SQlite(prototyping), PostgreSQL
 <p align="center">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
